@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Project 1</title>
+</head>
+<body bgcolor="black" style="color: white;">
+    <center>
+    <h1>upcomming events📅</h1>
+    <p>don't miss any important events</p>
+    </center>                                                               
+<hr>
+<p>
+Our college is all set to host a series of exciting events in the coming weeks. The Annual Cultural Fest will take place on December 10th, featuring dance, music, and drama performances by talented students. Following that, the Tech Expo 2025 will be held on December 15th, where students from various departments will showcase their innovative projects and ideas. A special Sports Week is also planned, including cricket, football, and athletics competitions. These events aim to bring students together, encourage creativity, and celebrate teamwork and talent across the campus.
+</p>
+<center>
+<img src="C:\Users\Dell\Downloads\event photo.png"width="400" height="300" alt="Event Image">
+<hr>
+<h1>Freshers Gathering</h1>
+<h2>Free food | Free ticket | </h2>
+<p>Students enthusiastically took part in the event, showcasing their talents and teamwork throughout the program. Many students contributed creative ideas, making the event more vibrant and memorable. Their active participation in cultural, technical, and sports activities brought great energy to the campus. The event also helped students build confidence and learn new skills. Overall, the dedication and involvement of the students played a major role in making the event a grand success</p>
+<img src="C:\Users\Dell\Downloads\Swiggy-Logo.png" width="400 height=300"><br>
+<a href="https://www.swiggy.com/">swiggy</a>
+</center>
+<hr>
+<center>
+<h1>contact | location</h1>
+<h2>123456789 | The New College</h2>
+</center>
+</body>
+</html>
